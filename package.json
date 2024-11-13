@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "Laboratorio API REST con MongoDB",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairEsteban/NodeJS_Express_Mongo.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "MongoDB",
+    "API",
+    "REST",
+    "Backend"
+  ],
+  "author": "Jair Esteban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairEsteban/NodeJS_Express_Mongo/issues"
+  },
+  "homepage": "https://github.com/JairEsteban/NodeJS_Express_Mongo#readme"
+}
